@@ -1,5 +1,4 @@
 # ASSIGNMENT-5-Module-6-Data-Structures-and-Strings-in-Python
-# Assignment 5: Module 6: Data Structures and Strings in Python
 
 This assignment demonstrates basic operations with **dictionaries** and **lists** in Python.
 
